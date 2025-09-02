@@ -9,9 +9,6 @@
 Learn machine learning engineering from regression and classification to deployment and deep learning.
 </p>
 
-<p align="center">
-<a href="https://airtable.com/shryxwLd0COOEaqXo"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
-</p>
 
 <p align="center">
 <a href="https://datatalks.club/slack.html">Join #course-ml-zoomcamp Channel on Slack</a> •
@@ -22,20 +19,8 @@ Learn machine learning engineering from regression and classification to deploym
 </p>
 
 
-## Table of Contents
-- [How to Join](#how-to-join)
-- [Quick Start Checklist](#quick-start-checklist-with-links)
-- [What This Course Is About](#what-this-course-is-about)
-- [Prerequisites](#prerequisites)
-- [Syllabus](#syllabus)
-- [Community & Getting Help](#community--getting-help)
-- [Certificates](#certificates)
-- [Sponsors](#sponsors)
-- [About DataTalks.Club](#about-datatalksclub)
 
-## How to Join
-
-### 2025 Cohort (Live Format)
+## 2025 Cohort (Live Format)
 
 - **Starts**: September 15, 2025
 - **Duration**: 4 months
@@ -44,31 +29,14 @@ Learn machine learning engineering from regression and classification to deploym
   - Structured learning path with deadlines
   - Peer interaction and community support
   - Opportunity to earn a certificate
-- **Register**: [Sign up here](https://airtable.com/shryxwLd0COOEaqXo)
-- **Calendar**: [Subscribe to updates](https://calendar.google.com/calendar/?cid=cGtjZ2tkbGc1OG9yb2lxa2Vwc2g4YXMzMmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
-### Self-Paced Learning (Available Anytime)
 
-All materials are freely available on GitHub. You can:
-- Follow along with the syllabus below
-- Complete homework at your own pace (solutions included)
-- Work on projects to practice what you learn
-
-**Note**: Self-paced learning gives you access to all course materials and recordings, but you need to join a live cohort to earn a certificate.
-
-## Quick Start Checklist with Links
-
-- Check [this repository content](https://github.com/DataTalksClub/machine-learning-zoomcamp) and star it (all materials live here).
-- Subscribe to [DataTalks.Club on YouTube](https://www.youtube.com/@DataTalksClub) and review the [course playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR).
-- Read the [frequently asked questions](https://docs.google.com/document/d/1LpPanc33QJJ6BSsyxVg-pWNMplal84TdZtq10naIhD8) to save time later.  
-- Join the [Slack course channel](https://DataTalks.Club/slack.html) for discussions.  
-- Join the [Telegram channel](https://t.me/mlzoomcamp) for announcements.  
 
 ## About ML Zoomcamp
 
 This is a practical course where you'll learn to build and deploy machine learning systems. We focus on the engineering side from training models to getting them to work in production.
 
-**You'll learn:**
+**Content to learn**
 - Core ML algorithms and when to use them
 - Scikit-Learn and XGBoost
 - Preparing data, feature engineering
