@@ -161,42 +161,6 @@ Learn to serve ML models at scale using Kubernetes and TensorFlow Serving.
 
 Choose a problem that interests you, find a suitable dataset, and develop your model. Deploy your model into a web service (local deployment or cloud deployment for bonus points).
 
-## Community & Getting Help
-
-### Where to Get Help
-- **Slack**: [`#course-ml-zoomcamp`](https://app.slack.com/client/T01ATQK62F8/C0288NJ5XSA) channel
-- **FAQ**: [Common questions and answers](https://docs.google.com/document/d/1LpPanc33QJJ6BSsyxVg-pWNMplal84TdZtq10naIhD8)
-- **Study Groups**: Connect with other learners
-
-### Community Guidelines
-- Check the [FAQ](https://docs.google.com/document/d/1LpPanc33QJJ6BSsyxVg-pWNMplal84TdZtq10naIhD8) first
-- Follow our [question guidelines](asking-questions.md)
-- Be helpful and respectful
-- Share your learning journey
-
-### Learning in Public
-We encourage sharing your progress! Write blog posts, create videos, post on social media with #mlzoomcamp. It helps you learn better and builds your professional network.
-
-**Bonus**: You can earn extra points for sharing your learning experience publicly.
-
-Learn more: [Learning in Public](learning-in-public.md)
-
-## Certificates
-
-To receive a certificate, you'll need to:
-
-1. **Join a live cohort** (self-paced learners cannot earn certificates)
-2. **Complete 2 out of 3 projects**:
-   - **Midterm Project**: Choose a problem that interests you, find a suitable dataset, and develop your model
-   - **Capstone Project**: Complete either Capstone Project 1 or Capstone Project 2 (includes deploying a model as a web service)
-3. **Review 3 peers' projects** by the deadline
-
-**Important**: Projects must be completed individually, and you can join after the course has started if you miss some homework deadlines.
-
-<p align="center">
-  <strong>Ready to start? <a href="https://airtable.com/shryxwLd0COOEaqXo">Join the 2025 cohort</a> or <a href="01-intro/">start with Module 1</a></strong>
-</p>
-
 
 ## About DataTalks.Club
 
