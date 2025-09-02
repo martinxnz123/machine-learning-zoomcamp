@@ -171,15 +171,3 @@ Choose a problem that interests you, find a suitable dataset, and develop your m
 <p align="center">
 <a href="https://datatalks.club/">DataTalks.Club</a> is a global online community of data enthusiasts. It's a place to discuss data, learn, share knowledge, ask and answer questions, and support each other.
 </p>
-
-<p align="center">
-<a href="https://datatalks.club/">Website</a> •
-<a href="https://datatalks.club/slack.html">Join Slack Community</a> •
-<a href="https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa">Newsletter</a> •
-<a href="http://lu.ma/dtc-events">Upcoming Events</a> •
-<a href="https://calendar.google.com/calendar/?cid=ZjhxaWRqbnEwamhzY3A4ODA5azFlZ2hzNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">Google Calendar</a> •
-<a href="https://www.youtube.com/@DataTalksClub/featured">YouTube</a> •
-<a href="https://github.com/DataTalksClub">GitHub</a> •
-<a href="https://www.linkedin.com/company/datatalks-club/">LinkedIn</a> •
-<a href="https://twitter.com/DataTalksClub">Twitter</a>
-</p>
