@@ -197,17 +197,6 @@ To receive a certificate, you'll need to:
   <strong>Ready to start? <a href="https://airtable.com/shryxwLd0COOEaqXo">Join the 2025 cohort</a> or <a href="01-intro/">start with Module 1</a></strong>
 </p>
 
-## Sponsors
-
-Thanks to our sponsors who make this course possible:
-
-<p align="center">
-  <a href="https://saturncloud.io/">
-    <img height="120" src="https://github.com/DataTalksClub/llm-zoomcamp/raw/main/images/saturn-cloud.png">
-  </a>
-</p>
-
-Interested in sponsoring? Contact [alexey@datatalks.club](mailto:alexey@datatalks.club).
 
 ## About DataTalks.Club
 
@@ -230,5 +219,3 @@ Interested in sponsoring? Contact [alexey@datatalks.club](mailto:alexey@datatalk
 <a href="https://www.linkedin.com/company/datatalks-club/">LinkedIn</a> •
 <a href="https://twitter.com/DataTalksClub">Twitter</a>
 </p>
-
-All the activity at DataTalks.Club mainly happens on [Slack](https://datatalks.club/slack.html). We post updates there and discuss different aspects of data, career questions, and more.
