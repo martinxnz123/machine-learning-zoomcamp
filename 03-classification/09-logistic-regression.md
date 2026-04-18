@@ -25,6 +25,17 @@ Logistic regression is similar to linear regression because both models take int
 <p align="center">
     $\large Sigmoid\left(z\right)=\frac{1}{1 + exp\left( -z \right)}$
 </p>
+Decision Boundary
+
+To convert the predicted probability into a class label, a threshold (commonly 0.5) is used:
+
+<p align="center">
+    $\large g\left(x_{i}\right) \geq 0.5 \rightarrow \text{Class 1}$
+</p>
+
+<p align="center">
+    $\large g\left(x_{i}\right) < 0.5 \rightarrow \text{Class 0}$
+</p>
 
 In this way, the sigmoid function allows transforming a score into a probability. 
 
