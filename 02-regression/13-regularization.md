@@ -43,7 +43,33 @@ So if you're interested what it means, you can read here
 * More formal definition: https://en.wikipedia.org/wiki/Linear_combination
 
 ### Ridge Regression
-The regularization technique used (adding a factor to the diagonals of Gram Matrix) in this lesson is Ridge Regression. Further explanations are available in this [DataTalks.Club article](https://datatalks.club/blog/regularization-in-regression.html).
+
+Ridge Regression adds a penalty term to the loss function to reduce large coefficients:
+
+<p align="center">
+    $\large L = ||y - Xw||^2 + \lambda ||w||^2$
+</p>
+
+Where:
+
+- $\lambda$ is the regularization parameter  
+- $||w||^2$ is the L2 norm (sum of squared weights)  
+
+This helps prevent overfitting by shrinking the coefficients.Further explanations are available in this [DataTalks.Club article](https://datatalks.club/blog/regularization-in-regression.html).
+### Lasso Regression
+
+Lasso Regression is another regularization technique that adds an L1 penalty:
+
+<p align="center">
+    $\large L = ||y - Xw||^2 + \lambda ||w||_1$
+</p>
+
+Where:
+
+- $\lambda$ is the regularization parameter  
+- $||w||_1$ is the L1 norm (sum of absolute values of weights)  
+
+Unlike Ridge Regression, Lasso can shrink some coefficients exactly to zero, which helps in feature selection.
 
 ## Navigation
 
