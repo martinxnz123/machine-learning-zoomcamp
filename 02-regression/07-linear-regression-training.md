@@ -23,8 +23,45 @@ Where:
 
 $X^TX$ is the Gram Matrix
 
+---
 
+### Prediction Formula
 
+Once the weights $w$ are computed, predictions can be obtained using:
+
+$\hat{y} = Xw$
+
+---
+
+### Loss Function (Mean Squared Error)
+
+The Normal Equation minimizes the Mean Squared Error (MSE):
+
+$L(w) = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$
+
+---
+
+### Condition for Invertibility
+
+For $(X^TX)^{-1}$ to exist:
+
+- $X^TX$ must be invertible  
+- This requires that features are not linearly dependent (no duplicate or redundant columns)
+
+---
+
+### Regularized Normal Equation (Ridge)
+
+To handle non-invertibility or improve stability, a regularization term can be added:
+
+$w = (X^TX + \lambda I)^{-1} X^T y$
+
+Where:
+
+- $\lambda$ is the regularization parameter  
+- $I$ is the identity matrix  
+
+---
 
 The entire code of this project is available in [this jupyter notebook](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/chapter-02-car-price/02-carprice.ipynb). 
 
